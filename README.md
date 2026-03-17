@@ -1,2 +1,12 @@
-# hello-world-eu-test-app-20260317
-Hello World test app deployed on Heroku EU
+# Hello World EU Test App
+
+Simple Node.js + Express app for Heroku deployment in the EU region.
+
+## Run locally
+
+```bash
+npm install
+npm start
+```
+
+Open http://localhost:3000
